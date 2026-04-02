@@ -1,0 +1,5 @@
+portfolio_id,portfolio_name,owner,custodian,account_scope,objective,status,notes
+ed-schwab-taxable,Ed Taxable Portfolio,Ed,Schwab,multi-account,Wealth Building,active,
+ed-fidelity-401k,Ed 401k,Ed,Fidelity,single-account,Retirement,active,
+ed-schwab-roth,Ed Roth IRA,Ed,Schwab,single-account,Retirement,active,
+family-coverdell-esa,Family ESA,Family,Schwab,multi-account,Education,active,
