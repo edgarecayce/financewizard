@@ -1,0 +1,3 @@
+This folder holds for-review updates created by ChatGPT but rejected by the merge process.
+
+A merge agent (Cursor/Codex) processes these files according to MERGE_INSTRUCTIONS.md. After processing, files are moved here if they need review by a human because they could not be determinalistically processed Files here will only be reviewed by a human operator
