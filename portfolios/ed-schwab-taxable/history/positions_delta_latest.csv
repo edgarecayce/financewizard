@@ -1,0 +1,1 @@
+from_date,to_date,ticker,change_type,quantity_before,quantity_after,market_value_before,market_value_after,weight_before,weight_after,cost_basis_before,cost_basis_after,notes

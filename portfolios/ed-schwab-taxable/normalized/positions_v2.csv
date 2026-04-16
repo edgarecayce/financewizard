@@ -1,0 +1,7 @@
+as_of_date,ticker,security_name,asset_type,total_quantity,total_market_value,total_cost_basis,unrealized_gain,weight_pct,virtual_portfolio,strategy_bucket,thesis_id,target_weight_pct,status,notes,source_file
+2026-04-01,AAPL,APPLE INC,Equity,100,25498.31,27790.66,-2292.35,2.76,untagged,,,,untagged,,EC Main-Positions-2026-04-01-202522.csv
+2026-04-01,MSFT,MICROSOFT CORP,Equity,150,55492.5,54328.87,1163.63,6,untagged,,,,untagged,,EC Main-Positions-2026-04-01-202522.csv
+2026-04-01,APP,APPLOVIN CORP CLASS CLASS A,Equity,225,87270.75,74675.37,12595.38,9.43,untagged,,,,untagged,,EC Main-Positions-2026-04-01-202522.csv
+2026-04-01,NAC,NUVEEN CA QUALITY MUNI I,ETFs & Closed End Funds,7480,87441.2,88240.87,-799.67,9.45,untagged,,,,untagged,,EC Main-Positions-2026-04-01-202522.csv
+2026-04-01,SLV,ISHARES SILVER TRUST,ETFs & Closed End Funds,1120,76417.6,55226.75,21190.85,8.26,untagged,,,,untagged,,EC Main-Positions-2026-04-01-202522.csv
+2026-04-01,IAUM,ISHARES GOLD TRUST MICRO,ETFs & Closed End Funds,1486,70941.64,54964.5,15977.14,7.67,untagged,,,,untagged,,EC Main-Positions-2026-04-01-202522.csv
