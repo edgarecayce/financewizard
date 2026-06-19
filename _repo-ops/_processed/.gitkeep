@@ -1,9 +1,0 @@
-# _processed
-
-This folder contains staged files that have been successfully processed.
-
-- Files here have been applied to their destination locations.
-- They are renamed with a DONE_ prefix.
-- These files serve as an audit trail of applied changes.
-
-No further action is required for files in this folder.
