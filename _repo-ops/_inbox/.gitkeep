@@ -1,9 +1,0 @@
-# _inbox
-
-This folder holds staged updates created by ChatGPT.
-
-- Files are created here instead of modifying existing files directly.
-- A merge agent (Cursor/Codex) processes these files according to MERGE_INSTRUCTIONS.md.
-- After processing, files are moved to /_processed/ or /_needs-review/.
-
-Do not edit files here manually unless resolving issues.
