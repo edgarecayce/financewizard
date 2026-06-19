@@ -1,5 +1,0 @@
-This folder holds files overwritten by the merge process
-
-Files are copied here before being overwritten by the merge agent
-
-There will typically only be reasd or manipulated by humans unless the agent is explicitly asked to restore one of these files by name
